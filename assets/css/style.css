@@ -1,0 +1,36 @@
+body {
+  background-image: Url("../images/big-orange-train.jpg");
+  background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.jumbotron {
+  background-color: orange;
+}
+
+.card-header {
+  background-color: aqua;
+  border: 1px solid black;
+}
+
+#train-name-input {
+  border: 1px solid black;
+}
+
+#destination-input {
+  border: 1px solid black;
+}
+
+#start-time-input {
+  border: 1px solid black;
+}
+
+#frequency-input {
+  border: 1px solid black;
+}
+#add-train-btn {
+  background-color: yellow;
+  border: 1px solid black;
+  color: black;
+}
