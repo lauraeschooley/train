@@ -8,8 +8,8 @@ _ _ _
 
 _ _ _
 
-* Type in the Train Name, Destination, the time the train leaves, the frequency it runs, and push submit. 
+* Type in the Train Name, Destination, the time the train arrives, the frequency it runs, and push submit. 
 
-* Once you push the submit button, the train information will show above in the train schedule. It will show the exact time it leaves and how long till the next time it runs. 
+* Once you push the submit button, the train information will show above in the train schedule. It will show the exact time it arrives and how long till the next time it runs. 
 
 
